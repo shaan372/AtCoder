@@ -1,0 +1,7 @@
+*.bin
+.vscode/
+.cph/
+contest
+*.exe
+template.cpp
+*.txt
